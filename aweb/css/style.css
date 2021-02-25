@@ -1,0 +1,12 @@
+.jumbotron img {
+    height: 30%;
+}
+
+footer {
+    min-height: 50px;
+    padding-top: 15px;
+}
+
+body {
+    margin-top: 50px;
+}
